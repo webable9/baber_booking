@@ -31212,8 +31212,8 @@ jc(){this.vz()},
 lz(){this.F1()},
 ja(a){}}
 A.mm.prototype={
-J(a,b){var s=null,r=A.a5T("HomeView",s)
-return new A.rO(new A.oZ(r,!0,new A.Fr(s,s,1/0,56),s),A.Jw(A.a5T("HomeView is working",A.ts(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s)),s,s),s)}}
+J(a,b){var s=null,r=A.a5T("Barber Booking",s)
+return new A.rO(new A.oZ(r,!0,new A.Fr(s,s,1/0,56),s),A.Jw(A.a5T("\ubc14\ubc84\uc0f5 \uc608\uc57d",A.ts(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s)),s,s),s)}}
 A.IT.prototype={
 $0(){return new A.mm(null)},
 $S:128}
