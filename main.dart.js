@@ -15707,7 +15707,7 @@ return}throw"Unable to print message: "+String(a)},
 a7U(){var s,r=$.a8g()
 if($.aD==null)A.VY()
 s=$.aD
-s.DK(new A.q_("/home","Application",r,null))
+s.DK(new A.q_("/home","Barber Booking",r,null))
 s.oD()},
 I2(a,b,c,d,e){return A.aj0(a,b,c,d,e,e)},
 aj0(a,b,c,d,e,f){var s=0,r=A.a2(f),q
